@@ -1,0 +1,10 @@
+# Exclude directory
+MNIST/
+myenv/
+
+# Exclude specific file types
+*.csv
+*.json
+*.yml
+*.swp
+*.swo
