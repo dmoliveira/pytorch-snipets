@@ -1,6 +1,8 @@
 # Exclude directory
 MNIST/
 myenv/
+__pycache__/
+__init__/
 
 # Exclude specific file types
 *.csv
@@ -8,3 +10,4 @@ myenv/
 *.yml
 *.swp
 *.swo
+*.pyc
